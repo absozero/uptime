@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 45,
-    "timeWeek": 85,
+    "time": 112,
+    "timeDay": 29,
+    "timeWeek": 73,
     "timeMonth": 80,
-    "timeYear": 113,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 18,
-    "timeWeek": 72,
+    "time": 92,
+    "timeDay": 23,
+    "timeWeek": 48,
     "timeMonth": 73,
-    "timeYear": 93,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 35,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 98,
+    "time": 97,
+    "timeDay": 19,
+    "timeWeek": 52,
+    "timeMonth": 76,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 19,
-    "timeWeek": 69,
+    "time": 94,
+    "timeDay": 16,
+    "timeWeek": 45,
     "timeMonth": 72,
-    "timeYear": 95,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 25,
-    "timeWeek": 81,
+    "time": 97,
+    "timeDay": 16,
+    "timeWeek": 57,
     "timeMonth": 70,
-    "timeYear": 98,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 649,
-    "timeDay": 348,
-    "timeWeek": 556,
-    "timeMonth": 591,
-    "timeYear": 649,
+    "time": 648,
+    "timeDay": 585,
+    "timeWeek": 506,
+    "timeMonth": 596,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2022-04-07": 26
     }
