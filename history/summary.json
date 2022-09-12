@@ -94,18 +94,19 @@
     "url": "https://github.com/absozero",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "my-github",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 627,
-    "timeDay": 621,
-    "timeWeek": 479,
-    "timeMonth": 582,
-    "timeYear": 627,
+    "time": 624,
+    "timeDay": 380,
+    "timeWeek": 436,
+    "timeMonth": 567,
+    "timeYear": 624,
     "dailyMinutesDown": {
+      "2022-09-12": 0,
       "2022-04-07": 26
     }
   }
