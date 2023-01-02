@@ -4,18 +4,20 @@
     "url": "https://absozero.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/absozero.github.io.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 71,
-    "timeWeek": 73,
-    "timeMonth": 71,
+    "timeDay": 81,
+    "timeWeek": 75,
+    "timeMonth": 72,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-02": 0
+    }
   },
   {
     "name": "Blog",
