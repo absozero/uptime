@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/absozero.github.io.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "89.97%",
+    "uptime": "89.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -121,18 +121,20 @@
     "url": "https://absozero.github.io/cliweather",
     "icon": "https://icons.duckduckgo.com/ip3/absozero.github.io.ico",
     "slug": "cliweather",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 31,
-    "timeWeek": 70,
-    "timeMonth": 95,
+    "timeDay": 25,
+    "timeWeek": 64,
+    "timeMonth": 92,
     "timeYear": 86,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-01": 0
+    }
   },
   {
     "name": "My Github",
