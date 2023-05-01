@@ -121,19 +121,19 @@
     "url": "https://absozero.github.io/cliweather",
     "icon": "https://icons.duckduckgo.com/ip3/absozero.github.io.ico",
     "slug": "cliweather",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 88,
-    "timeDay": 25,
-    "timeWeek": 64,
-    "timeMonth": 92,
+    "timeDay": 36,
+    "timeWeek": 63,
+    "timeMonth": 91,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-05-01": 0
+      "2023-05-01": 11
     }
   },
   {
