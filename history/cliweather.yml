@@ -1,7 +1,7 @@
 url: https://absozero.github.io/cliweather
-status: up
-code: 200
-responseTime: 22
-lastUpdated: 2023-09-27T23:07:16.229Z
+status: down
+code: 404
+responseTime: 90
+lastUpdated: 2023-10-30T05:31:21.146Z
 startTime: 2022-03-31T17:37:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
