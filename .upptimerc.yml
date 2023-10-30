@@ -11,8 +11,6 @@ sites:
     url: https://absozero.github.io/galact
   - name: Bosa-bot
     url: https://absozero.github.io/bosa-bot
-  - name: Cliweather
-    url: https://absozero.github.io/cliweather
   - name: My Github
     url: https://github.com/absozero
 
