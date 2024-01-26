@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/absozero.github.io.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "94.03%",
+    "uptime": "94.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.29%",
+    "uptimeYear": "95.56%",
     "time": 88,
-    "timeDay": 30,
-    "timeWeek": 69,
+    "timeDay": 42,
+    "timeWeek": 68,
     "timeMonth": 76,
     "timeYear": 90,
     "dailyMinutesDown": {
@@ -31,8 +31,7 @@
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
-      "2023-01-27": 1440,
-      "2023-01-26": 1440
+      "2023-01-27": 1440
     }
   },
   {
@@ -47,8 +46,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 74,
-    "timeDay": 22,
-    "timeWeek": 50,
+    "timeDay": 16,
+    "timeWeek": 45,
     "timeMonth": 66,
     "timeYear": 73,
     "dailyMinutesDown": {
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 20,
-    "timeWeek": 47,
-    "timeMonth": 68,
+    "timeDay": 39,
+    "timeWeek": 50,
+    "timeMonth": 69,
     "timeYear": 76,
     "dailyMinutesDown": {}
   },
@@ -87,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 29,
-    "timeWeek": 47,
-    "timeMonth": 74,
+    "timeDay": 27,
+    "timeWeek": 48,
+    "timeMonth": 75,
     "timeYear": 76,
     "dailyMinutesDown": {}
   },
@@ -105,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 647,
-    "timeWeek": 587,
+    "timeDay": 483,
+    "timeWeek": 588,
     "timeMonth": 608,
-    "timeYear": 554,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   }
 ]
