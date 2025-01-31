@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 58,
-    "timeWeek": 79,
-    "timeMonth": 105,
+    "timeDay": 92,
+    "timeWeek": 74,
+    "timeMonth": 106,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 16,
-    "timeWeek": 80,
+    "timeDay": 25,
+    "timeWeek": 56,
     "timeMonth": 85,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 15,
-    "timeWeek": 95,
+    "timeDay": 43,
+    "timeWeek": 56,
     "timeMonth": 85,
     "timeYear": 89,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 15,
-    "timeWeek": 82,
+    "timeDay": 22,
+    "timeWeek": 59,
     "timeMonth": 91,
     "timeYear": 90,
     "dailyMinutesDown": {}
@@ -78,17 +78,15 @@
     "slug": "my-github",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 5221,
-    "timeWeek": 1993,
+    "time": 459,
+    "timeDay": 5194,
+    "timeWeek": 1974,
     "timeMonth": 809,
     "timeYear": 413,
-    "dailyMinutesDown": {
-      "2025-01-30": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
